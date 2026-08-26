@@ -7,7 +7,7 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica+%7C+Retro-Computing;Focado+em+codigo+puro+desde+os+16" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica+%7C+Retro-Computing;Focado+em+codigo+puro" alt="Typing SVG" />
 
 </div>
 
@@ -101,7 +101,7 @@
 ```
 ├────────────────────────────────────────────────────────────┤
 │ IDES & FERRAMENTAS                                         │
-└────────────────────────────────────────────────────────────┘
+├────────────────────────────────────────────────────────────┤
 ```
 
 <div align="center">
