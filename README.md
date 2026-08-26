@@ -7,7 +7,7 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica+%7C+Retro-Computing;Focado+em+codigo+puro" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica+%7C+Retro-Computing" alt="Typing SVG" />
 
 </div>
 
@@ -25,18 +25,15 @@
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│ USER.EXE                                          [_][□][X]│
+│ USER.EXE                                          [-][□][X]│
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
 │  NOME .......... Nicolas Miguel Neves                      │
-│  IDADE ......... 16 anos                                   │
 │  NACIONALIDADE . Brasileiro                                │
 │  IDIOMA ........ Ingles [B2] ████████░░                    │
 │  FORMACAO ...... Tecnico em Desenvolvimento de Sistemas    │
 │                   Senai Centro 4.0                         │
-│                                                            │
-│  STATUS ........ [ONLINE] compilando conhecimento...       │
-│                                                            │
+│                                                            │    
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -44,7 +41,7 @@
 </tr>
 </table>
 
-> * Dev de 16 anos apaixonado por **código puro**, **robótica** e **retro-computing**. Construo aplicações desktop, web e sistemas de IA enquanto programo robôs de competição em **FRC** e projetos com **Arduino**. Sempre com o terminal aberto e um café (Java, claro) do lado.
+> **robótica** e **JAVA**. Construo aplicações desktop, web e sistemas de IA enquanto programo robôs de competição em **FRC** e projetos com **Arduino**. Sempre com o terminal aberto e um café (Java, claro) do lado.
 
 <br>
 
@@ -135,7 +132,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│ CONTACT.EXE                                        [_][□][X]│
+│ CONTACT.EXE                                        [-][□][X]│
 ├─────────────────────────────────────────────────────────────┤
 │  E-mail : nicolas.mnesves@gmail.com                         │
 │  >> conectando ao servidor...                     [ OK ]    │
