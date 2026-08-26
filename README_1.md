@@ -90,6 +90,7 @@
 ![C#](https://img.shields.io/badge/C%23-282828?style=for-the-badge&logo=csharp&logoColor=B8BB26&color=282828)
 ![JavaScript](https://img.shields.io/badge/JavaScript-282828?style=for-the-badge&logo=javascript&logoColor=FABD2F&color=282828)
 ![HTML5](https://img.shields.io/badge/HTML5-282828?style=for-the-badge&logo=html5&logoColor=FB4934&color=282828)
+<br>
 ![CSS](https://img.shields.io/badge/CSS-282828?style=for-the-badge&logo=css3&logoColor=83A598&color=282828)
 ![MySQL](https://img.shields.io/badge/MySQL-282828?style=for-the-badge&logo=mysql&logoColor=83A598&color=282828)
 ![Arduino](https://img.shields.io/badge/Arduino-282828?style=for-the-badge&logo=arduino&logoColor=B8BB26&color=282828)
@@ -98,9 +99,9 @@
 </div>
 
 ```
-├──────────────────────────────────────────────────────────┤
-│ IDES & FERRAMENTAS                                          │
-└──────────────────────────────────────────────────────────┘
+├────────────────────────────────────────────────────────────┤
+│ IDES & FERRAMENTAS                                         │
+└────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -120,43 +121,6 @@
 
 <div align="center">
 
-### `> ./GITHUB_STATS.EXE`
-
-</div>
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nicolasmnesves-sudo&show_icons=true&theme=gruvbox&hide_border=true&title_color=fabd2f&text_color=ebdbb2&icon_color=b8bb26&bg_color=282828" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmnesves-sudo&layout=compact&theme=gruvbox&hide_border=true&title_color=fabd2f&text_color=ebdbb2&icon_color=fb4934&bg_color=282828" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasmnesves-sudo&theme=gruvbox&hide_border=true&background=282828&stroke=fabd2f&ring=fb4934&fire=fb4934&currStreakLabel=ebdbb2&sideLabels=ebdbb2&currStreakNum=fabd2f&sideNums=b8bb26&dates=a89984" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicolasmnesves-sudo&theme=react-dark&bg_color=282828&color=fabd2f&line=b8bb26&point=fb4934&area=true&hide_border=true" width="95%"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### `> ./TROPHIES.EXE`
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nicolasmnesves-sudo&theme=gruvbox&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
-
-</div>
-
 <br>
 
 <div align="center">
@@ -170,13 +134,13 @@
 <td>
 
 ```
-┌──────────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────────────┐
 │ CONTACT.EXE                                        [_][□][X]│
-├──────────────────────────────────────────────────────────┤
-│                                                              │
-│  >> conectando ao servidor...                     [ OK ]   │
-│                                                              │
-└──────────────────────────────────────────────────────────┘
+├─────────────────────────────────────────────────────────────┤
+│  E-mail : nicolas.mnesves@gmail.com                         │
+│  >> conectando ao servidor...                     [ OK ]    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
