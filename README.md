@@ -7,7 +7,11 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica+%7C+Retro-Computing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica" alt="Typing SVG" />
+
+<br>
+
+<img src="./java-logo-ascii.svg" width="260" alt="java ascii logo" />
 
 </div>
 
@@ -113,10 +117,6 @@
 </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
 
 <br>
 
