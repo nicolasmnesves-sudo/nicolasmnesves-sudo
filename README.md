@@ -7,8 +7,7 @@
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+Nicolas+Miguel+Neves;Dev+Java+%7C+Robotica" alt="Typing SVG" />
 <br>
 
 <img src="./java-logo-ascii.svg" width="260" alt="java ascii logo" />
@@ -23,7 +22,7 @@
 
 </div>
 
-<table align="center" width="100%">
+<table align="center" width="100%" >
 <tr>
 <td>
 
@@ -49,7 +48,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" >
 
 ### `> ./AREAS_DE_ATUACAO.EXE`
 
