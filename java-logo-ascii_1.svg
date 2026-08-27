@@ -1,0 +1,50 @@
+<svg width="339" height="297" viewBox="0 0 339 297" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="339" height="297" fill="#000000"/>
+<style>text{font-family:"Courier New",monospace; font-size:7px; white-space:pre;}</style>
+<g id="steam" fill="#fb4934">
+<text x="5" y="8.0" xml:space="preserve">                                                @</text>
+<text x="5" y="15.0" xml:space="preserve">                                                @@</text>
+<text x="5" y="22.0" xml:space="preserve">                                               *@@,</text>
+<text x="5" y="29.0" xml:space="preserve">                                               @@@*</text>
+<text x="5" y="36.0" xml:space="preserve">                                             .@@@@</text>
+<text x="5" y="43.0" xml:space="preserve">                                           ,@@@@@</text>
+<text x="5" y="50.0" xml:space="preserve">                                        *@@@@@@@</text>
+<text x="5" y="57.0" xml:space="preserve">                                     @@@@@@@@@</text>
+<text x="5" y="64.0" xml:space="preserve">                                 .@@@@@@@@@,           *,</text>
+<text x="5" y="71.0" xml:space="preserve">                               @@@@@@@@@/         #@@</text>
+<text x="5" y="78.0" xml:space="preserve">                            #@@@@@@@@*        &amp;@@@*</text>
+<text x="5" y="85.0" xml:space="preserve">                          *@@@@@@@/       *@@@@%</text>
+<text x="5" y="92.0" xml:space="preserve">                         @@@@@@@        @@@@@(</text>
+<text x="5" y="99.0" xml:space="preserve">                        @@@@@@#       %@@@@@</text>
+<text x="5" y="106.0" xml:space="preserve">                        @@@@@@*       @@@@@@</text>
+<text x="5" y="113.0" xml:space="preserve">                        ,@@@@@%       @@@@@@&amp;</text>
+<text x="5" y="120.0" xml:space="preserve">                         (@@@@@       #@@@@@@@</text>
+<text x="5" y="127.0" xml:space="preserve">                           @@@@@       #@@@@@@@&amp;</text>
+<text x="5" y="134.0" xml:space="preserve">                            %@@@%        @@@@@@@&amp;</text>
+<text x="5" y="141.0" xml:space="preserve">                              (@@(         @@@@@@</text>
+<text x="5" y="148.0" xml:space="preserve">                                 @&amp;         @@@@</text>
+<text x="5" y="155.0" xml:space="preserve">                                   .        @@,                   .*/,</text>
+<text x="5" y="162.0" xml:space="preserve">             ,@@@@@@%                      @                     (@@@@@@@%</text>
+<text x="5" y="169.0" xml:space="preserve">         @@@@@@@                                         ,           ,@@@@@</text>
+<text x="5" y="176.0" xml:space="preserve">         &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(                ,@@@@*</text>
+<text x="5" y="183.0" xml:space="preserve">              /&amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*                        @@@@@</text>
+<text x="5" y="190.0" xml:space="preserve">                                                                    @@@@@@</text>
+<text x="5" y="197.0" xml:space="preserve">                 &amp;@@                              .               @@@@@(</text>
+<text x="5" y="204.0" xml:space="preserve">                @@@@@@@@@@@@@&amp;&amp;%%#%@@@@@@@@@@@@@@@@@@@*        @@@@,</text>
+<text x="5" y="211.0" xml:space="preserve">                    .#@@@@@@@@@@@@@@@@@@@@@@%*.             ,</text>
+</g>
+<g id="cup" fill="#fabd2f">
+<text x="5" y="225.0" xml:space="preserve">                    (@@,</text>
+<text x="5" y="232.0" xml:space="preserve">                   @@@@@@@@@@@@%#/*,**(%@@@@@@@@@@%</text>
+<text x="5" y="239.0" xml:space="preserve">                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/</text>
+<text x="5" y="246.0" xml:space="preserve">     ./&amp;@@&amp;/                    .**///*,.                            *</text>
+<text x="5" y="253.0" xml:space="preserve">.@@@@@.                                                            %@@</text>
+<text x="5" y="260.0" xml:space="preserve"> @@@@@@@@@@%/.                                         ,(&amp;@@@@@@@@(</text>
+<text x="5" y="267.0" xml:space="preserve">     #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#             (@#</text>
+<text x="5" y="274.0" xml:space="preserve">                                                                 (@@@@%</text>
+<text x="5" y="281.0" xml:space="preserve">                #@&amp;%#((//*,,..              .,**/%&amp;@@@@@@@@@@@@@#</text>
+<text x="5" y="288.0" xml:space="preserve">                                     .........</text>
+</g>
+<animate xlink:href="#steam" attributeName="opacity" values="0.75;1;0.75" dur="2.6s" repeatCount="indefinite"/>
+<animate xlink:href="#cup" attributeName="opacity" values="0.9;1;0.9" dur="3.4s" repeatCount="indefinite"/>
+</svg>
